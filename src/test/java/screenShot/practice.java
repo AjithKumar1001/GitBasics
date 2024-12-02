@@ -24,6 +24,10 @@ public class practice {
 
 		practice p = new practice();
 		p.screenUtility(driver, "Homepage");
+		
+		System.out.println("This is changed code");
+		System.out.println("This is changed Workspace");
+		System.out.println("This is changed Eclipse");
 
 	}
 
