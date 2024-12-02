@@ -28,6 +28,7 @@ public class practice {
 		System.out.println("This is changed code");
 		System.out.println("This is changed Workspace");
 		System.out.println("This is changed Eclipse");
+		print();
 
 	}
 
@@ -38,6 +39,13 @@ public class practice {
 		File destination = new File("./Screenshots/" + ScreenshotName + ".png");
 		FileUtils.copyFile(srcFile, destination);
 
+	}
+	
+	public static void print()
+	{
+		System.out.println("This is changed code");
+		System.out.println("This is changed Workspace");
+		System.out.println("This is changed Eclipse");
 	}
 
 }

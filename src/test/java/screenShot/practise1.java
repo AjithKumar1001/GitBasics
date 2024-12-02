@@ -20,7 +20,15 @@ public class practise1 {
 		WebElement email = driver.findElement(By.name("email"));
 		File screeshot = email.getScreenshotAs(OutputType.FILE);
 		FileUtils.copyFile(screeshot, new File("./screenshot/element.png"));
+		printer();
 
+	}
+	
+	public static void printer()
+	{
+		System.out.println("This is changed code");
+		System.out.println("This is changed Workspace");
+		System.out.println("This is changed Eclipse");
 	}
 
 }
