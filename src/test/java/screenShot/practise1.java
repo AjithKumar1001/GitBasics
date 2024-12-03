@@ -44,5 +44,12 @@ public class practise1 {
 		System.out.println("This is changed Place");
 		System.out.println("This is changed Eclipse");
 	}
+	
+	public static void mountains()
+	{
+		System.out.println("This is changed Everest");
+		System.out.println("This is changed Plague");
+		System.out.println("This is changed Volcano");
+	}
 
 }
