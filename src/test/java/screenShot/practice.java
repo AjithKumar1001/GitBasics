@@ -48,4 +48,26 @@ public class practice {
 		System.out.println("This is changed Eclipse");
 	}
 
+	public static void print1()
+	{
+		System.out.println("This is changed code");
+		System.out.println("This is changed Workspace");
+		System.out.println("This is changed Eclipse");
+	}
+	
+	public static void print2()
+	{
+		System.out.println("This is changed code");
+		System.out.println("This is changed Workspace");
+		System.out.println("This is changed Eclipse");
+	}
+	
+	public static void print3()
+	{
+		System.out.println("This is changed code");
+		System.out.println("This is changed Workspace");
+		System.out.println("This is changed Eclipse");
+	}
+	
+
 }

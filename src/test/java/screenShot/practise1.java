@@ -30,5 +30,19 @@ public class practise1 {
 		System.out.println("This is changed Workspace");
 		System.out.println("This is changed Eclipse");
 	}
+	
+	public static void printers()
+	{
+		System.out.println("This is changed Benjamnin");
+		System.out.println("This is changed Edward");
+		System.out.println("This is changed Eclipse");
+	}
+	
+	public static void printeer()
+	{
+		System.out.println("This is changed code");
+		System.out.println("This is changed Place");
+		System.out.println("This is changed Eclipse");
+	}
 
 }
